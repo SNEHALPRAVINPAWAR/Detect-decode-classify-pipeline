@@ -27,7 +27,7 @@ This project implements a scalable deep learning pipeline using Intel DL Streame
    - Verified GStreamer plugins using gst-inspect-1.0
 
 2. Model Download :
-   -Downloaded pre-trained models using omz_downloader:
+   - Downloaded pre-trained models using omz_downloader:
      - person-detection-retail-0013
      - face-detection-retail-0004
      - age-gender-recognition-retail-0013
