@@ -20,14 +20,14 @@ This project implements a scalable deep learning pipeline using Intel DL Streame
 - Docker for containerized deployment
 - Ubuntu 22.04 LTS
 
-🚀 Step-by-Step Pipeline Flow
+🚀 Step-by-Step Pipeline Flow :
 1. Environment Setup :
    - Installed OpenVINO and DL Streamer from .tgz archives
    - Set up environment variables for OpenVINO and DL Streamer
    - Verified GStreamer plugins using gst-inspect-1.0
 
 2. Model Download :
-   - Downloaded pre-trained models using omz_downloader:
+   -Downloaded pre-trained models using omz_downloader:
      - person-detection-retail-0013
      - face-detection-retail-0004
      - age-gender-recognition-retail-0013
