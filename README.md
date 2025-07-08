@@ -4,19 +4,21 @@ Real-time detection and classification pipeline using Intel DL Streamer and Open
 Smart Video Analytics Pipeline using Intel DL Streamer & OpenVINO
 This project implements a scalable deep learning pipeline using Intel DL Streamer and OpenVINO Toolkit, focused on real-time person/face detection, attribute classification (age, gender, etc.), and hardware-accelerated inference on CPU/GPU.
 
+
 ✅ Key Features :
 - Real-time video analytics using GStreamer + OpenVINO plugins
 - Modular pipeline for detection, decoding, and classification
 - Supports both person and face detection
 - Age-gender classification with age-gender-recognition-retail-0013
 - Optimized inference using Intel hardware accelerators
+  
 
 🔧 Technologies Used :
--Intel DL Streamer Toolkit
--OpenVINO Toolkit (v2025.2.0)
--GStreamer framework
--Docker for containerized deployment
--Ubuntu 22.04 LTS
+- Intel DL Streamer Toolkit
+- OpenVINO Toolkit (v2025.2.0)
+- GStreamer framework
+- Docker for containerized deployment
+- Ubuntu 22.04 LTS
 
 🚀 Step-by-Step Pipeline Flow
 1. Environment Setup :
