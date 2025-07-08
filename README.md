@@ -1,8 +1,8 @@
 # Detect-decode-classify-pipeline
 Real-time detection and classification pipeline using Intel DL Streamer and OpenVINO.
 
-Smart Video Analytics Pipeline using Intel DL Streamer & OpenVINO
-This project implements a scalable deep learning pipeline using Intel DL Streamer and OpenVINO Toolkit, focused on real-time person/face detection, attribute classification (age, gender, etc.), and hardware-accelerated inference on CPU/GPU.
+Smart Video Analytics Pipeline using Intel DL Streamer & OpenVINO. 
+ This project implements a scalable deep learning pipeline using Intel DL Streamer and OpenVINO Toolkit, focused on real-time person/face detection, attribute classification (age, gender, etc.), and hardware-accelerated inference on CPU/GPU.
 
 
 ✅ Key Features :
